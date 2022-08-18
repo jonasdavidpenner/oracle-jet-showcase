@@ -1,0 +1,5 @@
+Javascript File URL:
+https://static.oracle.com/cdn/jet/12.1.0/3rdparty/require/require.js
+
+CSS File URL:
+#JET_CSS_DIRECTORY#alta/oj-alta-notag-min.css
